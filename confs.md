@@ -1,6 +1,6 @@
 # Conférences Epitech
 
-## Informatiques
+## Informatique
 
 * [Docker Solomon Hykes](https://vimeo.com/72964003)
 * [gconfs Epita - conférence DevOps](https://www.youtube.com/watch?v=XCFS5D7iIM8])
@@ -11,8 +11,10 @@
 * [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 * [45 minutes, Docker avec Jérôme Petazzoni](https://www.youtube.com/watch?v=bXSC3-mrgWA)
 
-## Philosophie
+## Philosophie, autres
 
 * [La société automatique, Bernard Stiegler](https://www.youtube.com/watch?v=999kzydPHGg)
 * [Michel Serres, Bernard Stiegler](https://www.youtube.com/watch?v=iREkxNVetbQ)
 * ["Une nouvelle figure de l'amateur" Bernard Stiegler](https://www.youtube.com/watch?v=EIsDStewTwU)
+
+* [Les grands principes de l'apprentissage, Stanislas Dehaene](https://www.youtube.com/watch?v=4NYAuRjvMNQ)
