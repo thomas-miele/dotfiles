@@ -11,15 +11,18 @@
 * [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 * [45 minutes, Docker avec Jérôme Petazzoni](https://www.youtube.com/watch?v=bXSC3-mrgWA)
 * [Les grands principes de l'apprentissage, Stanislas Dehaene](https://www.youtube.com/watch?v=4NYAuRjvMNQ)
+* [Thierry Karsenti MOOC : Révolution ou simple effet de mode ?](https://www.youtube.com/watch?v=nyzn1W-wRQg)
 
-* __Benjamin Bayart__
+### Benjamin Bayart
+
 * [Comprendre un monde qui change : Internet et ses enjeux](https://www.youtube.com/watch?v=yBmz29_5ffA)
 * [Comprendre un monde qui change : Internet et ses enjeux. Questions ?](https://www.youtube.com/watch?v=ZMJa1OTXnW0)
 * [Benjamin Bayart - L'Internet peut-il casser des briques ?](https://www.youtube.com/watch?v=JvvGZxjNHiw)
 
 ## Philosophie, Éducation, autres
 
-* __Bernard Stiegler__
+### Bernard Stiegler
+
 * [La société automatique, Bernard Stiegler](https://www.youtube.com/watch?v=999kzydPHGg)
 * [Michel Serres, Bernard Stiegler](https://www.youtube.com/watch?v=iREkxNVetbQ)
 * ["Une nouvelle figure de l'amateur" Bernard Stiegler](https://www.youtube.com/watch?v=EIsDStewTwU)
