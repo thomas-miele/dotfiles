@@ -1,11 +1,14 @@
 # Conférences Epitech
 
-## Jeux Vidéos (Usul, Dorian, NESblog...)
+* [Boris Carré et François-Xavier Drouet - L'initiation -](https://www.youtube.com/watch?v=_WlnVRQo0jk&)
+
+## Jeux Vidéos (Usul, Dorian, NESblog...), Cinéma, Youtube...
 
 * [Conférence Ethique et Game Design - Geek Faëries 2012](https://www.youtube.com/watch?v=gqc1VLrUzbg)
 * [Conférence : Les vidéos sur Internet par le 3615 Usul](https://www.youtube.com/watch?v=MxGs3c14WLE)
 * [L'avenir du MMORPG après WoW - avec JdG](https://www.youtube.com/watch?v=mkxycNbahyk)
 * [Usul, le jeu vidéo est il l'avenir de l'art?](https://www.youtube.com/watch?v=bhZ91kb2iSI)
+* [Bruce Benamran (e-penser) en interview-canapé !](https://www.youtube.com/watch?v=JVv979sjcSE)
 
 ## Informatique
 
@@ -18,11 +21,12 @@
 * [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 * [45 minutes, Docker avec Jérôme Petazzoni](https://www.youtube.com/watch?v=bXSC3-mrgWA)
 
-### Benjamin Bayart
+### Benjamin Bayart (La Quadrature du Net)
 
 * [Comprendre un monde qui change : Internet et ses enjeux](https://www.youtube.com/watch?v=yBmz29_5ffA)
 * [Comprendre un monde qui change : Internet et ses enjeux. Questions ?](https://www.youtube.com/watch?v=ZMJa1OTXnW0)
 * [Benjamin Bayart - L'Internet peut-il casser des briques ?](https://www.youtube.com/watch?v=JvvGZxjNHiw)
+* [Internet libre, ou Minitel 2.0 ? Benjamin Bayart](https://www.youtube.com/watch?v=AoRGoQ76PK8)
 
 ### Bernard Stiegler
 
@@ -44,17 +48,37 @@
   * [Frédéric Lordon : Capitalisme désir et servitude (2)](https://www.youtube.com/watch?v=u_CgyMe6Qd4)
   * [Frédéric Lordon sur Mediapart : pour une autre Europe, faut-il sortir de l'euro ?](https://www.youtube.com/watch?v=GN9IIu3417E)
   * [Lordon chez Taddéi](https://www.youtube.com/watch?v=pU9Zl1T23MI)
+  * [Au-delà du capitalisme », avec Frédéric Lordon et Eric Hazan](https://www.youtube.com/watch?v=MKWfCdZ8zLI)
+  * [Frédéric Lordon - Eric Hazan - Autour du Monde Diplomatique](https://www.youtube.com/playlist?list=PLiFh9QE1t7XsRB_eQfXOyJzEwMxH3tGHP)
+  * [Frédéric Lordon : Les banques prennent en otages les biens publics](https://www.youtube.com/watch?v=QRCRiGiCCxo)
+  * [Vive la banqueroute ! - Entretien avec Frédéric Lordon](https://www.youtube.com/watch?v=Ds85pZcUiys)
 * Bernard Friot
+  * [Bernard Friot et Frédéric Lordon chez Tropiques (1/2)](https://www.youtube.com/watch?v=E6-x5lJD8K4)
   * [Usul : Mes Chers Contemporains - Le Salaire à Vie (Bernard Friot)](https://www.youtube.com/watch?v=uhg0SUYOXjw)
   * [Manifeste : Pour un statut politique du producteur (Réseau Salariat)](https://www.youtube.com/watch?v=lRHO5GfKgFY)
+* Le Stagirite : [chaîne youtube](https://www.youtube.com/user/LeStagirite/videos)
+  * [L'économie, indépendante de la politique ? Mélenchon et l'ordolibéralisme. (Topoï #7)](https://www.youtube.com/watch?v=hFtJHymkqQk)
+  * [Le capitalisme expliqué par Albert Einstein](https://www.youtube.com/watch?v=E4V221YmioA)
+  * [conférence de Fabrice Barnathan : « YouTube : Émancipation ou aliénation ?»](https://www.youtube.com/watch?v=Gc-qS63rFDc)
 
-## Politique, économie, démocratien, éducation
+## Divers
 
-* [Francis Dupuis-Déri, Démocratie : histoire d'un malentendu](https://www.youtube.com/watch?v=KVW5ogGDlts)
-* [Entretien avec Jean Claude Michéa](https://www.youtube.com/watch?v=5r-tlZfGPW0)
-* [L'économie, indépendante de la politique ? Mélenchon et l'ordolibéralisme. (Topoï #7)](https://www.youtube.com/watch?v=hFtJHymkqQk)
-* [Dette, crise, chômage : qui crée l'argent ?](https://www.youtube.com/watch?v=syAkdb_TDyo)
-* [L’art de la non-décision ou comment donner l’illusion de l’action ?](https://www.youtube.com/watch?v=4Dk1sysJoZs)
-* [[DOC] LA GUERRE DES GRAINES (officiel)](http://dai.ly/x1y3elt)
-* [Les grands principes de l'apprentissage, Stanislas Dehaene](https://www.youtube.com/watch?v=4NYAuRjvMNQ)
-* [Thierry Karsenti MOOC : Révolution ou simple effet de mode ?](https://www.youtube.com/watch?v=nyzn1W-wRQg)
+* Politique
+  * [Francis Dupuis-Déri, Démocratie : histoire d'un malentendu](https://www.youtube.com/watch?v=KVW5ogGDlts)
+  * [Entretien avec Jean Claude Michéa](https://www.youtube.com/watch?v=5r-tlZfGPW0)
+  * [L’art de la non-décision ou comment donner l’illusion de l’action ?](https://www.youtube.com/watch?v=4Dk1sysJoZs)
+* Économie
+  * [L'économie, indépendante de la politique ? Mélenchon et l'ordolibéralisme. (Topoï #7)](https://www.youtube.com/watch?v=hFtJHymkqQk)
+  * [Dette, crise, chômage : qui crée l'argent ?](https://www.youtube.com/watch?v=syAkdb_TDyo)
+* Éducation
+  * [DU PARADIGME DE L'EDUCATION](https://www.youtube.com/watch?v=e1LRrVYb8IE)
+  * [Les grands principes de l'apprentissage, Stanislas Dehaene](https://www.youtube.com/watch?v=4NYAuRjvMNQ)
+  * [Thierry Karsenti MOOC : Révolution ou simple effet de mode ?](https://www.youtube.com/watch?v=nyzn1W-wRQg)
+  * [Education nationale un grand corps malade](https://www.youtube.com/watch?v=qkS4BAOiDQE)
+* Écologie
+  * [[DOC] LA GUERRE DES GRAINES (officiel)](http://dai.ly/x1y3elt)
+  * [Mondialisation : Le travail, pourquoi ? 1/2](https://www.youtube.com/watch?v=e6NbIiRlTN8)
+  * [Mondialisation : Le travail, pourquoi ? 2/2](https://www.youtube.com/watch?v=rDaUOcQFxzA)
+* Sociologie
+  * [The great porn experiment | Gary Wilson | TEDxGlasgow](https://www.youtube.com/watch?v=wSF82AwSDiU)
+  * [Pierre Bourdieu. Sur la télévision](https://www.youtube.com/watch?v=vcc6AEpjdcY)
