@@ -64,10 +64,13 @@
 ## Divers
 
 * Politique
+  * [Cornelius Castoriadis (Une leçon de démocratie) - Chris Marker (1989)](http://www.derives.tv/Cornelius-Castoriadis-Une-lecon-de)
   * [Francis Dupuis-Déri, Démocratie : histoire d'un malentendu](https://www.youtube.com/watch?v=KVW5ogGDlts)
   * [Entretien avec Jean Claude Michéa](https://www.youtube.com/watch?v=5r-tlZfGPW0)
   * [L’art de la non-décision ou comment donner l’illusion de l’action ?](https://www.youtube.com/watch?v=4Dk1sysJoZs)
 * Économie
+  * [L'argent Dette (2010) Paul Grignon](https://www.youtube.com/watch?v=kgA2-bWXSN4)
+  * [L'Argent Dette 2 - Promesses Chimérique](https://www.youtube.com/watch?v=mC9rpRa8zlw)
   * [L'économie, indépendante de la politique ? Mélenchon et l'ordolibéralisme. (Topoï #7)](https://www.youtube.com/watch?v=hFtJHymkqQk)
   * [Dette, crise, chômage : qui crée l'argent ?](https://www.youtube.com/watch?v=syAkdb_TDyo)
 * Éducation
@@ -76,6 +79,7 @@
   * [Thierry Karsenti MOOC : Révolution ou simple effet de mode ?](https://www.youtube.com/watch?v=nyzn1W-wRQg)
   * [Education nationale un grand corps malade](https://www.youtube.com/watch?v=qkS4BAOiDQE)
 * Écologie
+  * [Un présent Sans Lendemain (There's No Tomorrow)](https://www.youtube.com/watch?v=a0J2gj80EVI)
   * [[DOC] LA GUERRE DES GRAINES (officiel)](http://dai.ly/x1y3elt)
   * [Mondialisation : Le travail, pourquoi ? 1/2](https://www.youtube.com/watch?v=e6NbIiRlTN8)
   * [Mondialisation : Le travail, pourquoi ? 2/2](https://www.youtube.com/watch?v=rDaUOcQFxzA)
