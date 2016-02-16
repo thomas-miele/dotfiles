@@ -9,6 +9,8 @@
 * [L'avenir du MMORPG après WoW - avec JdG](https://www.youtube.com/watch?v=mkxycNbahyk)
 * [Usul, le jeu vidéo est il l'avenir de l'art?](https://www.youtube.com/watch?v=bhZ91kb2iSI)
 * [Bruce Benamran (e-penser) en interview-canapé !](https://www.youtube.com/watch?v=JVv979sjcSE)
+* [[Vulgarizators] Usul - Génération Youtube](https://www.youtube.com/watch?v=124BhP3bR8E)
+* [Usul - Les Jeunes (la génération Y)](https://www.youtube.com/watch?v=yMOlTGHpZKg)
 
 ## Informatique
 
