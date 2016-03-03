@@ -3,53 +3,54 @@
 aim of this is to translate scotch-box to dockerfile recipe
 and translate vagrantfile to use docker provision
 
+> Légendes :
+> __extra added to box__
+> _may be implemented__
+> ~~will not be implemented~~
+
 * Server Stuff
-- [ ] Ubuntu 14.04 LTS (Trusty Tahr)
-- [ ] PHP 5.6
-- [ ] Ruby 2.2.x
-- [ ] Vim
-- [ ] Git
-- [ ] cURL
-- [ ] GD and Imagick
-- [ ] Composer
-- [ ] Beanstalkd
-- [ ] Node
-- [ ] NPM
-- [ ] Mcrypt
+  - [x] Ubuntu 14.04 LTS (Trusty Tahr)
+  - [ ] apache2
+  - [x] __nginx__
+  - [ ] PHP 5.6
+  - [ ] Ruby 2.2.x
+  - [ ] __Python__
+  - [x] vim
+  - [x] git, __mercurial__, subversion__
+  - [x] cURL
+  - [ ] _GD and Imagick_
+  - [ ] Composer
+  - [ ] ~~Beanstalkd~~
+  - [x] Node.js, npm
+  - [ ] _Mcrypt_
 * Database Stuff
-- [ ] MySQL
-- [ ] PostreSQL
-- [ ] SQLite
-- [ ] MongoDB
+  - [x] MySQL
+  - [x] PostreSQL
+  - [x] SQLite
+  - [ ] MongoDB
 * Caching Stuff
-- [ ] Redis
-- [ ] Memcache and Memcached
-- [ ] Node Stuff
-- [ ] Grunt
-- [ ] Bower
-- [ ] Yeoman
-- [ ] Gulp
-- [ ] Browsersync
-- [ ] PM2
+  - [x] Redis
+  - [ ] _Memcache and Memcached_
+* Node Stuff
+  - [x] Grunt
+  - [x] Bower
+  - [ ] _Yeoman_
+  - [x] Gulp
+  - [ ] _Browsersync_
+  - [ ] _PM2_
+
 * Laravel Stuff
-- [ ] Laravel Installer
-- [ ] Laravel Envoy
-- [ ] Blackfire Profiler
-- [ ] Mailcatcher
-- [ ] First: `vagrant ssh`
-- [ ] Run: `mailcatcher --http-ip=0.0.0.0`
-- [ ] Then visit: http://192.168.33.10:1080
+  - [ ] _Laravel Installer_
+  - [ ] _Laravel Envoy_
+  - [ ] _Blackfire Profiler_
+* ~~Mailcatcher~~
+  - [ ] First: `vagrant ssh`
+  - [ ] Run: `mailcatcher --http-ip=0.0.0.0`
+  - [ ] Then visit: http://192.168.33.10:1080
 * Other Useful Stuff
-- [ ] WP-CLI
-- [ ] No Internet connection required
-- [ ] PHP Errors turned on
-- [ ] No Internet connection required
-- [ ] Laravel and WordPress ready
-- [ ] Operating System agnostic
-- [ ] Goodbye XAMPP / WAMP
-- [ ] New Vagrant version? Update worry free. ScotchBox is very reliable with a lesser chance of breaking with various updates
-- [ ] Super easy database access and control
-- [ ] Virtual host ready
-- [ ] PHP short tags turned on
-- [ ] H5BP’s server configs
-- [ ] MIT License
+  - [ ] WP-CLI
+  - [ ] PHP Errors turned on
+  - [ ] Laravel and WordPress ready
+  - [ ] PHP short tags turned on
+  - [ ] H5BP’s server configs
+  - [x] MIT License
