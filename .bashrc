@@ -134,3 +134,5 @@ export BOOST_LIBS=/usr/local/lib
 export MSGPACK_ROOT=/usr/local
 export MSGPACK_INCLUDES=/usr/local/include
 export MSGPACK_LIBS=/usr/local/lib
+#export SASS_LIBSASS_PATH=/usr/local/lib
+export SASS_LIBSASS_PATH=/home/miele_t/lib/libsass-3.3.3
