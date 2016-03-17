@@ -20,3 +20,7 @@ fi
 if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
 fi
+
+# Fairy tail
+FAIRY_TAIL=$HOME/.fairy_tail
+echo "$(tput setaf 1) $(cat ${FAIRY_TAIL}) $(tput sgr 0)"
