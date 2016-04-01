@@ -51,11 +51,14 @@
   * [Frédéric Lordon : Capitalisme désir et servitude (1)](https://www.youtube.com/watch?v=yDsR0j4JLdM)
   * [Frédéric Lordon : Capitalisme désir et servitude (2)](https://www.youtube.com/watch?v=u_CgyMe6Qd4)
   * [Frédéric Lordon sur Mediapart : pour une autre Europe, faut-il sortir de l'euro ?](https://www.youtube.com/watch?v=GN9IIu3417E)
-  * [Lordon chez Taddéi](https://www.youtube.com/watch?v=pU9Zl1T23MI)
   * [Au-delà du capitalisme », avec Frédéric Lordon et Eric Hazan](https://www.youtube.com/watch?v=MKWfCdZ8zLI)
   * [Frédéric Lordon - Eric Hazan - Autour du Monde Diplomatique](https://www.youtube.com/playlist?list=PLiFh9QE1t7XsRB_eQfXOyJzEwMxH3tGHP)
-  * [Frédéric Lordon : Les banques prennent en otages les biens publics](https://www.youtube.com/watch?v=QRCRiGiCCxo)
   * [Vive la banqueroute ! - Entretien avec Frédéric Lordon](https://www.youtube.com/watch?v=Ds85pZcUiys)
+  * Ce Soir ou Jamais
+    + [Frédic Lordon / Thomas Piketty / Guy Sorman](https://www.youtube.com/watch?v=tZnm5J3o3hk)
+    + [Lordon chez Taddéi](https://www.youtube.com/watch?v=pU9Zl1T23MI)
+    + [Frédéric Lordon : Les banques prennent en otages les biens publics](https://www.youtube.com/watch?v=QRCRiGiCCxo)
+
 * Bernard Friot
   * [Bernard Friot et Frédéric Lordon chez Tropiques (1/2)](https://www.youtube.com/watch?v=E6-x5lJD8K4)
   * [Usul : Mes Chers Contemporains - Le Salaire à Vie (Bernard Friot)](https://www.youtube.com/watch?v=uhg0SUYOXjw)
