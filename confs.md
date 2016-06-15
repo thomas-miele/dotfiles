@@ -14,7 +14,7 @@
 
 ## Informatique
 
-* [Epitech conf  Ocsigen, la revolution du web en OCaml](Http://www.dailymotion.com/video/xqzd6c_ocsigen-la-revolution-du-web-en-ocaml_tech)
+* [Epitech conf  Ocsigen, la révolution du web en OCaml](Http://www.dailymotion.com/video/xqzd6c_ocsigen-la-revolution-du-web-en-ocaml_tech)
 * [Docker Solomon Hykes](https://vimeo.com/72964003)
 * [gconfs Epita - conférence DevOps](https://www.youtube.com/watch?v=XCFS5D7iIM8])
 * [gconfs Epita - Conférence C++ Extravaganza](https://www.youtube.com/watch?v=d4i_zriwa4o)
@@ -59,7 +59,6 @@
     + [Frédic Lordon / Thomas Piketty / Guy Sorman](https://www.youtube.com/watch?v=tZnm5J3o3hk)
     + [Lordon chez Taddéi](https://www.youtube.com/watch?v=pU9Zl1T23MI)
     + [Frédéric Lordon : Les banques prennent en otages les biens publics](https://www.youtube.com/watch?v=QRCRiGiCCxo)
-
 * Bernard Friot
   * [Bernard Friot et Frédéric Lordon chez Tropiques (1/2)](https://www.youtube.com/watch?v=E6-x5lJD8K4)
   * [Usul : Mes Chers Contemporains - Le Salaire à Vie (Bernard Friot)](https://www.youtube.com/watch?v=uhg0SUYOXjw)
@@ -68,6 +67,9 @@
   * [L'économie, indépendante de la politique ? Mélenchon et l'ordolibéralisme. (Topoï #7)](https://www.youtube.com/watch?v=hFtJHymkqQk)
   * [Le capitalisme expliqué par Albert Einstein](https://www.youtube.com/watch?v=E4V221YmioA)
   * [conférence de Fabrice Barnathan : « YouTube : Émancipation ou aliénation ?»](https://www.youtube.com/watch?v=Gc-qS63rFDc)
+* Dominique Pagani
+  * [Abécdaire philosophique - Dominique Pagani](Https://www.youtube.com/playlist?list=PLoDK9ZKTOO-_7gu__URMsYimxWc0Pr7SJ)
+  * [#1 Dominique Pagani : Présentation ; l'U.E ; Clouscard; Rousseau. - Affranchi PresseTV](https://www.youtube.com/watch?v=-L1J8oDIXkA)
 
 ## Divers
 
