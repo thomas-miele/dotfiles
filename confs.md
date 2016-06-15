@@ -14,6 +14,7 @@
 
 ## Informatique
 
+* [Epitech conf  Ocsigen, la revolution du web en OCaml](Http://www.dailymotion.com/video/xqzd6c_ocsigen-la-revolution-du-web-en-ocaml_tech)
 * [Docker Solomon Hykes](https://vimeo.com/72964003)
 * [gconfs Epita - conférence DevOps](https://www.youtube.com/watch?v=XCFS5D7iIM8])
 * [gconfs Epita - Conférence C++ Extravaganza](https://www.youtube.com/watch?v=d4i_zriwa4o)
