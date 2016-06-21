@@ -10,7 +10,7 @@ RUN apt-get update && apt-get -y install \
 
 RUN apt-get update && apt-get -y install \
     curl wget git subversion mercurial vim \
-    sqlite3 postgresql mysql redis-server nginx \
+    sqlite3 postgresql mysql redis-server nginx apache2 \
     imagemagick memcached \
     python-pip python-dev ruby-dev
 

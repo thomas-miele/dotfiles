@@ -10,7 +10,7 @@ and translate vagrantfile to use docker provision
 
 * Server Stuff
   - [x] Ubuntu 14.04 LTS (Trusty Tahr)
-  - [ ] apache2
+  - [x] apache2
   - [x] __nginx__
   - [ ] PHP 5.6
   - [ ] Ruby 2.2.x
