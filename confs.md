@@ -45,6 +45,7 @@
   * [Franck Lepage - Incultures - L'éducation populaire, monsieur, ils n'en ont pas voulu - 16 mars 2011](https://www.youtube.com/watch?v=96-8F7CZ_AU)
   * [Inculture(s) 2 : L'éducation - Franck Lepage - Scop Le Pave - Conférence gesticulée](https://www.youtube.com/watch?v=ACxRSSkYR_k)
   * [Inculture(s) 5 : Le travail - Franck Lepage & Gaël Tanguy - Scop Le Pave - Conférence gesticulée](https://www.youtube.com/watch?v=cqIcOaKAX4k)
+  * [Aux Sources de Franck Lepage - entretien Arrêt sur images](https://www.youtube.com/watch?v=zVhdg3kXBCo)
     + autres _conférences gesticulées_
     + ["Vous êtes l'élite de l'..." Mathieu Dalmais](https://www.youtube.com/watch?v=cRdw9Wy2ViE)
 * Frédéric Lordon
