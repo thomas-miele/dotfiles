@@ -18,3 +18,10 @@
 * Diagnostic partagé
 * Solidarité
 
+## Conte
+
+Une commission de participation des habitants.
+
+* population =/= commission
+* s'exprimer =/= s'exprimer
+* citoyens =/= habitants
